@@ -3,7 +3,7 @@
 A [Selectize](http://selectize.github.io/selectize.js/) wrapper for VueJS 2.
 
 ## Prerequisites
-* jQuery >= 1.7.0
+* jQuery >= 3.7.1
 
 ## Installation
 
@@ -37,5 +37,5 @@ export default {
 ```scss
 // Include your preferred theme in your main SASS file (or your component's <style lang="scss"/> section).
 
-@import "~selectize/dist/css/selectize.bootstrap3.css";
+@import "~selectize/dist/css/selectize.bootstrap4.css";
 ```
